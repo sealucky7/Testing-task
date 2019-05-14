@@ -1,0 +1,22 @@
+.title-form {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+.button_center {
+  display: block;
+  margin: 0 auto;
+}
+.img-center {
+  display: block;
+  margin: 0 auto;
+}
+.form {
+  padding-bottom: 0;
+}
+.plate {
+  margin-bottom: 50px;
+}
+.text-center {
+  text-align: center;
+}
